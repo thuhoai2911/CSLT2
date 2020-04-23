@@ -1,0 +1,26 @@
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csprojAssemblyReference.cache
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.exe
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.deps.json
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.json
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.dev.json
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\Win\Documents\CSLT2\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.genruntimeconfig.cache
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.exe
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.deps.json
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.json
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.dev.json
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csprojAssemblyReference.cache
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.dll
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.pdb
+C:\Users\Win\Documents\New folder\Chuong1\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.genruntimeconfig.cache
