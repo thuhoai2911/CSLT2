@@ -1,0 +1,6 @@
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csprojAssemblyReference.cache
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\Win\source\repos\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
